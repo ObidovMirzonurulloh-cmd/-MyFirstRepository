@@ -1,0 +1,5 @@
+C:\Users\obido\-MyFirstRepository\ConsoleApp1\obj\Release\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obido\-MyFirstRepository\ConsoleApp1\obj\Release\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\obido\-MyFirstRepository\ConsoleApp1\obj\Release\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\obido\-MyFirstRepository\ConsoleApp1\obj\Release\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\obido\-MyFirstRepository\ConsoleApp1\obj\Release\net10.0\ConsoleApp1.sourcelink.json

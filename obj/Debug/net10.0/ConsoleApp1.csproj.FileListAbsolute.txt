@@ -12,3 +12,11 @@ C:\Users\obido\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\refint\Con
 C:\Users\obido\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
 C:\Users\obido\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\obido\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
+C:\Users\obido\-MyFirstRepository\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obido\-MyFirstRepository\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\obido\-MyFirstRepository\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\obido\-MyFirstRepository\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\obido\-MyFirstRepository\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.sourcelink.json
+C:\Users\obido\-MyFirstRepository\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+C:\Users\obido\-MyFirstRepository\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\Users\obido\-MyFirstRepository\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb

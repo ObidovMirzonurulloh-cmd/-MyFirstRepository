@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 
 
 class MyClass
@@ -7,4 +7,4 @@ class MyClass
 
         Console.WriteLine("Hello, nur!");
     }
-}
+}*/
