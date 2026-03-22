@@ -1,0 +1,14 @@
+C:\Users\obido\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net10.0\ConsoleApp10.exe
+C:\Users\obido\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net10.0\ConsoleApp10.deps.json
+C:\Users\obido\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net10.0\ConsoleApp10.runtimeconfig.json
+C:\Users\obido\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net10.0\ConsoleApp10.dll
+C:\Users\obido\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net10.0\ConsoleApp10.pdb
+C:\Users\obido\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obido\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.AssemblyInfoInputs.cache
+C:\Users\obido\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.AssemblyInfo.cs
+C:\Users\obido\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\obido\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.dll
+C:\Users\obido\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net10.0\refint\ConsoleApp10.dll
+C:\Users\obido\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.pdb
+C:\Users\obido\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.genruntimeconfig.cache
+C:\Users\obido\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net10.0\ref\ConsoleApp10.dll
