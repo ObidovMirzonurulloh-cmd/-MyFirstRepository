@@ -1,0 +1,14 @@
+C:\Users\obido\source\repos\ItogProjectLinq\ItogProjectLinq\bin\Debug\net10.0\ItogProjectLinq.exe
+C:\Users\obido\source\repos\ItogProjectLinq\ItogProjectLinq\bin\Debug\net10.0\ItogProjectLinq.deps.json
+C:\Users\obido\source\repos\ItogProjectLinq\ItogProjectLinq\bin\Debug\net10.0\ItogProjectLinq.runtimeconfig.json
+C:\Users\obido\source\repos\ItogProjectLinq\ItogProjectLinq\bin\Debug\net10.0\ItogProjectLinq.dll
+C:\Users\obido\source\repos\ItogProjectLinq\ItogProjectLinq\bin\Debug\net10.0\ItogProjectLinq.pdb
+C:\Users\obido\source\repos\ItogProjectLinq\ItogProjectLinq\obj\Debug\net10.0\ItogProjectLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obido\source\repos\ItogProjectLinq\ItogProjectLinq\obj\Debug\net10.0\ItogProjectLinq.AssemblyInfoInputs.cache
+C:\Users\obido\source\repos\ItogProjectLinq\ItogProjectLinq\obj\Debug\net10.0\ItogProjectLinq.AssemblyInfo.cs
+C:\Users\obido\source\repos\ItogProjectLinq\ItogProjectLinq\obj\Debug\net10.0\ItogProjectLinq.csproj.CoreCompileInputs.cache
+C:\Users\obido\source\repos\ItogProjectLinq\ItogProjectLinq\obj\Debug\net10.0\ItogProjectLinq.dll
+C:\Users\obido\source\repos\ItogProjectLinq\ItogProjectLinq\obj\Debug\net10.0\refint\ItogProjectLinq.dll
+C:\Users\obido\source\repos\ItogProjectLinq\ItogProjectLinq\obj\Debug\net10.0\ItogProjectLinq.pdb
+C:\Users\obido\source\repos\ItogProjectLinq\ItogProjectLinq\obj\Debug\net10.0\ItogProjectLinq.genruntimeconfig.cache
+C:\Users\obido\source\repos\ItogProjectLinq\ItogProjectLinq\obj\Debug\net10.0\ref\ItogProjectLinq.dll
