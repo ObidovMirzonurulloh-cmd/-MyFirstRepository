@@ -1,0 +1,14 @@
+C:\Users\obido\source\repos\ItogProgramCalculator\ItogProgramCalculator\obj\Debug\net8.0\ItogProgramCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obido\source\repos\ItogProgramCalculator\ItogProgramCalculator\obj\Debug\net8.0\ItogProgramCalculator.AssemblyInfoInputs.cache
+C:\Users\obido\source\repos\ItogProgramCalculator\ItogProgramCalculator\obj\Debug\net8.0\ItogProgramCalculator.AssemblyInfo.cs
+C:\Users\obido\source\repos\ItogProgramCalculator\ItogProgramCalculator\obj\Debug\net8.0\ItogProgramCalculator.csproj.CoreCompileInputs.cache
+C:\Users\obido\source\repos\ItogProgramCalculator\ItogProgramCalculator\bin\Debug\net8.0\ItogProgramCalculator.exe
+C:\Users\obido\source\repos\ItogProgramCalculator\ItogProgramCalculator\bin\Debug\net8.0\ItogProgramCalculator.deps.json
+C:\Users\obido\source\repos\ItogProgramCalculator\ItogProgramCalculator\bin\Debug\net8.0\ItogProgramCalculator.runtimeconfig.json
+C:\Users\obido\source\repos\ItogProgramCalculator\ItogProgramCalculator\bin\Debug\net8.0\ItogProgramCalculator.dll
+C:\Users\obido\source\repos\ItogProgramCalculator\ItogProgramCalculator\bin\Debug\net8.0\ItogProgramCalculator.pdb
+C:\Users\obido\source\repos\ItogProgramCalculator\ItogProgramCalculator\obj\Debug\net8.0\ItogProgramCalculator.dll
+C:\Users\obido\source\repos\ItogProgramCalculator\ItogProgramCalculator\obj\Debug\net8.0\refint\ItogProgramCalculator.dll
+C:\Users\obido\source\repos\ItogProgramCalculator\ItogProgramCalculator\obj\Debug\net8.0\ItogProgramCalculator.pdb
+C:\Users\obido\source\repos\ItogProgramCalculator\ItogProgramCalculator\obj\Debug\net8.0\ItogProgramCalculator.genruntimeconfig.cache
+C:\Users\obido\source\repos\ItogProgramCalculator\ItogProgramCalculator\obj\Debug\net8.0\ref\ItogProgramCalculator.dll

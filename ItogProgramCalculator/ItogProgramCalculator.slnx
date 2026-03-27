@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CalculatorService.Test/CalculatorService.Test.csproj" />
+  <Project Path="ItogProgramCalculator/ItogProgramCalculator.csproj" />
+</Solution>
