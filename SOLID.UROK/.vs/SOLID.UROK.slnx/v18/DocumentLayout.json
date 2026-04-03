@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\obido\\source\\repos\\SOLID.UROK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4D1B9F-2BC2-03A5-3483-FD8EC430A888}|SOLID.UROK\\SOLIDItog.csproj|c:\\users\\obido\\source\\repos\\solid.urok\\solid.urok\\services\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4D1B9F-2BC2-03A5-3483-FD8EC430A888}|SOLID.UROK\\SOLIDItog.csproj|solutionrelative:solid.urok\\services\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4D1B9F-2BC2-03A5-3483-FD8EC430A888}|SOLID.UROK\\SOLID.UROK.csproj|c:\\users\\obido\\source\\repos\\solid.urok\\solid.urok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4D1B9F-2BC2-03A5-3483-FD8EC430A888}|SOLID.UROK\\SOLID.UROK.csproj|solutionrelative:solid.urok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4D1B9F-2BC2-03A5-3483-FD8EC430A888}|SOLID.UROK\\SOLIDItog.csproj|c:\\users\\obido\\source\\repos\\solid.urok\\solid.urok\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4D1B9F-2BC2-03A5-3483-FD8EC430A888}|SOLID.UROK\\SOLIDItog.csproj|solutionrelative:solid.urok\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4D1B9F-2BC2-03A5-3483-FD8EC430A888}|SOLID.UROK\\SOLIDItog.csproj|c:\\users\\obido\\source\\repos\\solid.urok\\solid.urok\\services\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4D1B9F-2BC2-03A5-3483-FD8EC430A888}|SOLID.UROK\\SOLIDItog.csproj|solutionrelative:solid.urok\\services\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4D1B9F-2BC2-03A5-3483-FD8EC430A888}|SOLID.UROK\\SOLIDItog.csproj|c:\\users\\obido\\source\\repos\\solid.urok\\solid.urok\\calculates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4D1B9F-2BC2-03A5-3483-FD8EC430A888}|SOLID.UROK\\SOLIDItog.csproj|solutionrelative:solid.urok\\calculates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculates.cs",
+              "DocumentMoniker": "C:\\Users\\obido\\source\\repos\\SOLID.UROK\\SOLID.UROK\\Calculates.cs",
+              "RelativeDocumentMoniker": "SOLID.UROK\\Calculates.cs",
+              "ToolTip": "C:\\Users\\obido\\source\\repos\\SOLID.UROK\\SOLID.UROK\\Calculates.cs",
+              "RelativeToolTip": "SOLID.UROK\\Calculates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T13:41:45.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "C:\\Users\\obido\\source\\repos\\SOLID.UROK\\SOLID.UROK\\Services\\Interface1.cs",
+              "RelativeDocumentMoniker": "SOLID.UROK\\Services\\Interface1.cs",
+              "ToolTip": "C:\\Users\\obido\\source\\repos\\SOLID.UROK\\SOLID.UROK\\Services\\Interface1.cs",
+              "RelativeToolTip": "SOLID.UROK\\Services\\Interface1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T13:28:26.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\obido\\source\\repos\\SOLID.UROK\\SOLID.UROK\\Services\\Calculator.cs",
+              "RelativeDocumentMoniker": "SOLID.UROK\\Services\\Calculator.cs",
+              "ToolTip": "C:\\Users\\obido\\source\\repos\\SOLID.UROK\\SOLID.UROK\\Services\\Calculator.cs",
+              "RelativeToolTip": "SOLID.UROK\\Services\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T13:26:30.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\obido\\source\\repos\\SOLID.UROK\\SOLID.UROK\\Model\\Account.cs",
+              "RelativeDocumentMoniker": "SOLID.UROK\\Model\\Account.cs",
+              "ToolTip": "C:\\Users\\obido\\source\\repos\\SOLID.UROK\\SOLID.UROK\\Model\\Account.cs",
+              "RelativeToolTip": "SOLID.UROK\\Model\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T13:25:39.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\obido\\source\\repos\\SOLID.UROK\\SOLID.UROK\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID.UROK\\Program.cs",
+              "ToolTip": "C:\\Users\\obido\\source\\repos\\SOLID.UROK\\SOLID.UROK\\Program.cs",
+              "RelativeToolTip": "SOLID.UROK\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T13:13:59.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

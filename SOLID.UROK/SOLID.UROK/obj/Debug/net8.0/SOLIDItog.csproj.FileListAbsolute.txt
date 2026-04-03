@@ -1,0 +1,14 @@
+C:\Users\obido\source\repos\SOLID.UROK\SOLID.UROK\obj\Debug\net8.0\SOLIDItog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obido\source\repos\SOLID.UROK\SOLID.UROK\obj\Debug\net8.0\SOLIDItog.AssemblyInfoInputs.cache
+C:\Users\obido\source\repos\SOLID.UROK\SOLID.UROK\obj\Debug\net8.0\SOLIDItog.AssemblyInfo.cs
+C:\Users\obido\source\repos\SOLID.UROK\SOLID.UROK\obj\Debug\net8.0\SOLIDItog.csproj.CoreCompileInputs.cache
+C:\Users\obido\source\repos\SOLID.UROK\SOLID.UROK\bin\Debug\net8.0\SOLIDItog.exe
+C:\Users\obido\source\repos\SOLID.UROK\SOLID.UROK\bin\Debug\net8.0\SOLIDItog.deps.json
+C:\Users\obido\source\repos\SOLID.UROK\SOLID.UROK\bin\Debug\net8.0\SOLIDItog.runtimeconfig.json
+C:\Users\obido\source\repos\SOLID.UROK\SOLID.UROK\bin\Debug\net8.0\SOLIDItog.dll
+C:\Users\obido\source\repos\SOLID.UROK\SOLID.UROK\bin\Debug\net8.0\SOLIDItog.pdb
+C:\Users\obido\source\repos\SOLID.UROK\SOLID.UROK\obj\Debug\net8.0\SOLIDItog.dll
+C:\Users\obido\source\repos\SOLID.UROK\SOLID.UROK\obj\Debug\net8.0\refint\SOLIDItog.dll
+C:\Users\obido\source\repos\SOLID.UROK\SOLID.UROK\obj\Debug\net8.0\SOLIDItog.pdb
+C:\Users\obido\source\repos\SOLID.UROK\SOLID.UROK\obj\Debug\net8.0\SOLIDItog.genruntimeconfig.cache
+C:\Users\obido\source\repos\SOLID.UROK\SOLID.UROK\obj\Debug\net8.0\ref\SOLIDItog.dll
