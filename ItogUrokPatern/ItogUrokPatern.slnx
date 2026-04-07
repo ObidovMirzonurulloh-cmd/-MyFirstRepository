@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ItogUrokPatern/ItogUrokPatern.csproj" />
+  <Project Path="TestCommandVideos/TestCommandVideos.csproj" Id="b0122301-d457-4dbf-8311-c078808d0bd5" />
+</Solution>
