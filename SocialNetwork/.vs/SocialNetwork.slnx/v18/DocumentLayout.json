@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\obido\\source\\repos\\SocialNetwork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB69B384-6AB8-A501-1DF7-953DF2E826DD}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\obido\\source\\repos\\socialnetwork\\socialnetwork\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB69B384-6AB8-A501-1DF7-953DF2E826DD}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB69B384-6AB8-A501-1DF7-953DF2E826DD}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\obido\\source\\repos\\socialnetwork\\socialnetwork\\bll\\services\\addfriend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB69B384-6AB8-A501-1DF7-953DF2E826DD}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\bll\\services\\addfriend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB69B384-6AB8-A501-1DF7-953DF2E826DD}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\obido\\source\\repos\\socialnetwork\\socialnetwork\\bll\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB69B384-6AB8-A501-1DF7-953DF2E826DD}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\bll\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB69B384-6AB8-A501-1DF7-953DF2E826DD}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\obido\\source\\repos\\socialnetwork\\socialnetwork\\pll\\views\\messagesendingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB69B384-6AB8-A501-1DF7-953DF2E826DD}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\pll\\views\\messagesendingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB69B384-6AB8-A501-1DF7-953DF2E826DD}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\obido\\source\\repos\\socialnetwork\\socialnetwork\\pll\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB69B384-6AB8-A501-1DF7-953DF2E826DD}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\pll\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB69B384-6AB8-A501-1DF7-953DF2E826DD}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\obido\\source\\repos\\socialnetwork\\socialnetwork\\pll\\views\\authenticationview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB69B384-6AB8-A501-1DF7-953DF2E826DD}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\pll\\views\\authenticationview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB69B384-6AB8-A501-1DF7-953DF2E826DD}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\obido\\source\\repos\\socialnetwork\\socialnetwork\\pll\\views\\adddataview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB69B384-6AB8-A501-1DF7-953DF2E826DD}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\pll\\views\\adddataview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\obido\\source\\repos\\SocialNetwork\\SocialNetwork\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\obido\\source\\repos\\SocialNetwork\\SocialNetwork\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "SocialNetwork\\BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:28:24.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\obido\\source\\repos\\SocialNetwork\\SocialNetwork\\BLL\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\BLL\\Services\\MessageService.cs",
+              "ToolTip": "C:\\Users\\obido\\source\\repos\\SocialNetwork\\SocialNetwork\\BLL\\Services\\MessageService.cs",
+              "RelativeToolTip": "SocialNetwork\\BLL\\Services\\MessageService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:27:35.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddFriend.cs",
+              "DocumentMoniker": "C:\\Users\\obido\\source\\repos\\SocialNetwork\\SocialNetwork\\BLL\\Services\\AddFriend.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\BLL\\Services\\AddFriend.cs",
+              "ToolTip": "C:\\Users\\obido\\source\\repos\\SocialNetwork\\SocialNetwork\\BLL\\Services\\AddFriend.cs",
+              "RelativeToolTip": "SocialNetwork\\BLL\\Services\\AddFriend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:27:28.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageSendingView.cs",
+              "DocumentMoniker": "C:\\Users\\obido\\source\\repos\\SocialNetwork\\SocialNetwork\\PLL\\Views\\MessageSendingView.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\PLL\\Views\\MessageSendingView.cs",
+              "ToolTip": "C:\\Users\\obido\\source\\repos\\SocialNetwork\\SocialNetwork\\PLL\\Views\\MessageSendingView.cs",
+              "RelativeToolTip": "SocialNetwork\\PLL\\Views\\MessageSendingView.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:27:02.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "C:\\Users\\obido\\source\\repos\\SocialNetwork\\SocialNetwork\\PLL\\Views\\MainView.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\PLL\\Views\\MainView.cs",
+              "ToolTip": "C:\\Users\\obido\\source\\repos\\SocialNetwork\\SocialNetwork\\PLL\\Views\\MainView.cs",
+              "RelativeToolTip": "SocialNetwork\\PLL\\Views\\MainView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:26:52.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationView.cs",
+              "DocumentMoniker": "C:\\Users\\obido\\source\\repos\\SocialNetwork\\SocialNetwork\\PLL\\Views\\AuthenticationView.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\PLL\\Views\\AuthenticationView.cs",
+              "ToolTip": "C:\\Users\\obido\\source\\repos\\SocialNetwork\\SocialNetwork\\PLL\\Views\\AuthenticationView.cs",
+              "RelativeToolTip": "SocialNetwork\\PLL\\Views\\AuthenticationView.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:26:31.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddDataView.cs",
+              "DocumentMoniker": "C:\\Users\\obido\\source\\repos\\SocialNetwork\\SocialNetwork\\PLL\\Views\\AddDataView.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\PLL\\Views\\AddDataView.cs",
+              "ToolTip": "C:\\Users\\obido\\source\\repos\\SocialNetwork\\SocialNetwork\\PLL\\Views\\AddDataView.cs",
+              "RelativeToolTip": "SocialNetwork\\PLL\\Views\\AddDataView.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:26:07.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

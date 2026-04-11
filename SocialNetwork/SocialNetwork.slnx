@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SocialNetwork.Test/SocialNetwork.Test.csproj" Id="0c803ec1-ea9f-4560-a217-c5138fac29e7" />
+  <Project Path="SocialNetwork/SocialNetwork.csproj" />
+</Solution>
