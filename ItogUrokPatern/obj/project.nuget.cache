@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2R7VLurwdNQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\obido\\source\\repos\\ItogUrokPatern\\ItogUrokPatern\\ItogUrokPatern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\obido\\.nuget\\packages\\anglesharp\\1.4.0\\anglesharp.1.4.0.nupkg.sha512",
+    "C:\\Users\\obido\\.nuget\\packages\\cliwrap\\3.10.0\\cliwrap.3.10.0.nupkg.sha512",
+    "C:\\Users\\obido\\.nuget\\packages\\youtubeexplode\\6.5.7\\youtubeexplode.6.5.7.nupkg.sha512",
+    "C:\\Users\\obido\\.nuget\\packages\\youtubeexplode.converter\\6.5.7\\youtubeexplode.converter.6.5.7.nupkg.sha512"
+  ],
+  "logs": []
+}
