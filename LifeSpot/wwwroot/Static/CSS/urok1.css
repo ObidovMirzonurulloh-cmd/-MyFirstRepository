@@ -1,0 +1,47 @@
+﻿body {
+    margin: 0;
+    background-color: antiquewhite;
+    display: flex;
+}
+
+/* Сайдбар */
+aside {
+    width: 200px;
+    background-color: #111;
+    min-height: 100vh;
+    padding-top: 20px;
+}
+
+/* Контент справа */
+.main {
+    flex: 1;
+    padding: 20px;
+}
+
+/* Навигация */
+.navbar {
+    display: flex;
+    flex-direction: column;
+    padding-left: 15px;
+    gap: 10px;
+}
+
+.navbar a {
+        color: white;
+        text-decoration: none;
+}
+
+.navbar a:hover {
+            color: aqua;
+        }
+
+/* Видео */
+.video-container {
+    display: inline-block;
+    margin: 10px;
+}
+
+/* Footer */
+footer {
+    margin-top: 30px;
+}
